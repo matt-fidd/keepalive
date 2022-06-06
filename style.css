@@ -1,0 +1,45 @@
+:root {
+	--margin-amount: 3rem;
+	--inactive-colour: red;
+	--active-colour: green;
+	--idle-colour: orange;
+}
+
+* {
+	box-sizing: border-box;
+
+	/* stop double click highlighting */
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+html {
+	font-family: Arial;
+	background-color: var(--idle-colour);
+	cursor: pointer;
+}
+
+.container {
+	margin: var(--margin-amount);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: calc(100vh - calc(var(--margin-amount) * 2));
+}
+
+.container p {
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	text-align: center;
+}
+
+.status {
+	font-weight: bold;
+	font-size: 2em;
+}
+
