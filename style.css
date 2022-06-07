@@ -43,3 +43,10 @@ html {
 	font-size: 2em;
 }
 
+@media screen and (max-width: 200px),
+    screen and (max-height: 200px) {
+	.container p {
+		display: none;
+	}
+}
+
