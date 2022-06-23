@@ -13,33 +13,32 @@
 <div align="center">
 
 <h3 align="center">KeepAlive</h3>
-
-  <p align="center">
+	<p align="center">
 	A simple website and PWA to keep a screen awake and stop a device from sleeping.
-  </p>
+	</p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#attributions">Attributions</a></li>
-  </ol>
+	<summary>Table of Contents</summary>
+	<ol>
+		<li>
+			<a href="#about-the-project">About The Project</a>
+			<ul>
+				<li><a href="#built-with">Built With</a></li>
+			</ul>
+		</li>
+		<li>
+			<a href="#getting-started">Getting Started</a>
+			<ul>
+				<li><a href="#prerequisites">Prerequisites</a></li>
+				<li><a href="#installation">Installation</a></li>
+			</ul>
+		</li>
+		<li><a href="#usage">Usage</a></li>
+		<li><a href="#contact">Contact</a></li>
+		<li><a href="#attributions">Attributions</a></li>
+	</ol>
 </details>
 
 
@@ -50,8 +49,6 @@
 Hosted publicly on github pages: https://matt-fidd.github.io/keepalive
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -70,13 +67,12 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 1. Clone the repo
-   ```sh
-   git clone https://github.com/matt-fidd/keepalive.git
-   ```
+ ```sh
+ git clone https://github.com/matt-fidd/keepalive.git
+ ```
 2. Point a web hosting server at the directory
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
