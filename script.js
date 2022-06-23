@@ -1,3 +1,6 @@
+if ('serviceWorker' in navigator)
+	navigator.serviceWorker.register('service-worker.js');
+
 const html = document.querySelector('html');
 const container = document.querySelector('.container');
 const status = container.querySelector('.status');
@@ -53,4 +56,3 @@ document.addEventListener('click', async () => {
 });
 
 html.click();
-

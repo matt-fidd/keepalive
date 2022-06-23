@@ -15,7 +15,7 @@
 <h3 align="center">KeepAlive</h3>
 
   <p align="center">
-	A simple website to keep a screen awake and stop a device from sleeping.
+	A simple website and PWA to keep a screen awake and stop a device from sleeping.
   </p>
 </div>
 
